@@ -1,4 +1,4 @@
-PCB Repair Tools and Techniques
+<b>PCB Repair Tools and Techniques</b>
 
 When physical damage-usually in the form of scratched traces or mask, broken corners, lifted pads  or damaged plated throughholes comes up, the printed circuit board needs to be physically repaired. If desired or allowed by the customer these repairs require the proper <b>PCB repair </b> tools and techniques. The techniques need to be performed by those skilled in the art with experience in such repairs. Specific PCB repair tools designed to make repair technician’s jobs easier and faster.  
 
